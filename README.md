@@ -25,12 +25,11 @@ A file with the difficulty scores on cifar10 has been included. In order to gene
 When using information from this page or from our paper, please cite us.
 
 ```
-@article{Soviany2019ImageDC,
-  title={Image Difficulty Curriculum for Generative Adversarial Networks (CuGAN)},
-  author={Petru Soviany and Claudiu Ardei and Radu Tudor Ionescu and Marius Leordeanu},
-  journal={ArXiv},
-  year={2019},
-  volume={abs/1910.08967}
+@InProceedings{Soviany_2020_WACV,
+author = {Soviany, Petru and Ardei, Claudiu and Ionescu, Radu Tudor and Leordeanu, Marius},
+title = {Image Difficulty Curriculum for Generative Adversarial Networks (CuGAN)},
+booktitle = {The IEEE Winter Conference on Applications of Computer Vision (WACV)},
+month = {March},
+year = {2020}
 }
 ```
-BibTex will be updated when WACV2020 proceedings will be available.
